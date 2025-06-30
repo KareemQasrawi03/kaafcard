@@ -100,12 +100,12 @@ export function Header() {
                   </Link>
                 ))}
                 <div className="pt-4 border-t">
-                  <Button className="w-full mb-2 bg-blue-600 hover:bg-blue-700">
+                  {/* <Button className="w-full mb-2 bg-blue-600 hover:bg-blue-700">
                     <Link href="/corporate">شراكة مؤسسية</Link>
                   </Button>
                   <Button className="w-full bg-orange-500 hover:bg-orange-600">
                     <Link href="/purchase">احصل على البطاقة</Link>
-                  </Button>
+                  </Button> */}
                 </div>
               </div>
             </SheetContent>
