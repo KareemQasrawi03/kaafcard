@@ -131,7 +131,7 @@ export function Footer() {
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
               © 2024 KAAFCARD - مؤسسة أصيل خليل للوساطة التجارية. جميع الحقوق محفوظة.
             </p>
-            <div className="flex space-x-6 space-x-reverse text-sm">
+            {/* <div className="flex space-x-6 space-x-reverse text-sm">
               <Link href="/privacy" className="text-gray-400 hover:text-white transition-colors duration-200">
                 سياسة الخصوصية
               </Link>
@@ -141,7 +141,7 @@ export function Footer() {
               <Link href="/support" className="text-gray-400 hover:text-white transition-colors duration-200">
                 الدعم الفني
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
